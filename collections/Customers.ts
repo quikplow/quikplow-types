@@ -1,5 +1,4 @@
 import { ProviderDocType, RequestDocType } from ".";
-import { NotificationType } from "../fields";
 import { AddressReadType } from "../fields/Address";
 import { MediaType } from "./Media";
 
@@ -27,7 +26,7 @@ export type CustomerDocType = NewCustomerDocType & {
     provider: ProviderDocType | string
     stars: number
   }>
-  notifications?: Array<NotificationType>
+  notifications?: any
   createdAt: Date
   updatedAt: Date
 }
