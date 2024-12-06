@@ -1,5 +1,5 @@
 {
-  "name": "@trbl/quikplow-types",
+  "name": "@quikplow/quikplow-types",
   "version": "1.0.0",
   "description": "Type definitions for Quikplow",
   "main": "index.ts",
