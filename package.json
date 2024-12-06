@@ -5,12 +5,12 @@
   "main": "index.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trouble/quikplow-types.git"
+    "url": "git+https://github.com/quikplow/quikplow-types.git"
   },
   "author": "dev@trbl.design",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/trouble/quikplow-types/issues"
+    "url": "https://github.com/quikplow/quikplow-types/issues"
   },
-  "homepage": "https://github.com/trouble/quikplow-types#readme"
+  "homepage": "https://github.com/quikplow/quikplow-types#readme"
 }
