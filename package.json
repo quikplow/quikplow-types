@@ -1,0 +1,16 @@
+{
+  "name": "@trbl/quikplow-types",
+  "version": "1.0.0",
+  "description": "Type definitions for Quikplow",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trouble/quikplow-types.git"
+  },
+  "author": "dev@trbl.design",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trouble/quikplow-types/issues"
+  },
+  "homepage": "https://github.com/trouble/quikplow-types#readme"
+}
